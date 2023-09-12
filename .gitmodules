@@ -1,0 +1,3 @@
+[submodule "lib/coroutine_task"]
+	path = lib/coroutine_task
+	url = git@github.com:yangzhao-ucr/CoroutineTask.git
